@@ -20,7 +20,7 @@ post '/newteam' do
 end
 
 post '/team' do
-    erb :team
+    "Hello World"
   end
 
 end
